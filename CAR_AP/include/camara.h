@@ -1,5 +1,5 @@
 
-ifndef CAMARA_H
+#ifndef CAMARA_H
 #define CAMARA_H
 
 #include "esp_camera.h"
@@ -7,3 +7,4 @@ ifndef CAMARA_H
 void configurarCamara();
 
 #endif
+
